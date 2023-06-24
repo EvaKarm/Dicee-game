@@ -1,7 +1,7 @@
 # Project "Dicee Game"
 You may play right now!!! [Have a look](https://evakarm.github.io/Dicee-game/index.html)
 
-Hello! This is the "Dicee Game" project - an educational application for playing a dice game, developed for GitHub. In this repository, you will find all the necessary files and instructions to run and use the application.
+Hello! This is the "Dicee Game" project - an educational application for playing a dice game, developed for GitHub. 
 
 ## Project Description
 
